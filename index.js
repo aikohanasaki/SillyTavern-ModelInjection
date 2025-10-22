@@ -1,5 +1,5 @@
-import { eventSource, event_types } from '../../../script.js';
-import { executeSlashCommandsWithOptions } from '../../slash-commands.js';
+import { eventSource, event_types } from '../../../../script.js';
+import { executeSlashCommandsWithOptions } from '../../../slash-commands.js';
 
 /**
  * Keep a hidden, scan-only model tag injected and refresh it on EVERY generation.
