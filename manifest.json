@@ -1,0 +1,13 @@
+{
+    "display_name": "SillyTavern-ModelInjection",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "aikohanasaki",
+    "version": "1.0.0",
+    "license": "AGPL-3.0",
+    "homePage": "https://github.com/aikohanasaki/SillyTavern-ModelInjection",
+    "auto_update": true,
+    "description": "Injects model ID into ST for WI scanning"
+}
